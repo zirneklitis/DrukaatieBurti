@@ -8,6 +8,9 @@ letters have the same height as „Liberation Serif” font. Texts
 formatted with „Drukaatie burti Regular” takes approximately the 
 same space as texts formatted with „Liberation Serif Regular”.
 
+There are six font weights available.
+At present only Latin letters are designed.
+
 <img src=DrukaatieBurti-0.14.3.png>
 
 ## Install to system
